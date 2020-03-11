@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cadastro.qml</file>
+        <file>Todo.qml</file>
+        <file>MenuInicial.qml</file>
+        <file>TelaDeBusca.qml</file>
+        <file>ButtonCriado.qml</file>
+        <file>ToolBar23.qml</file>
+        <file>img/img.png</file>
+        <file>TelaConfigGeral.qml</file>
+        <file>img/img2.png</file>
+        <file>img/img3.png</file>
+        <file>img/img4.png</file>
+        <file>img/img5.png</file>
+        <file>img/img6.png</file>
+        <file>img/img7.png</file>
+        <file>img/img8.png</file>
+        <file>img/img9.png</file>
+        <file>NotoRowLayout.qml</file>
+        <file>TelaListarInformacoesAluno.qml</file>
+        <file>BilheteDeReuniao.qml</file>
+        <file>img/img10.png</file>
+        <file>img/img11.png</file>
+        <file>img/img12.png</file>
+        <file>img/img13.png</file>
+        <file>TelaLoading.qml</file>
+        <file>NotoComboBox.qml</file>
+        <file>img/img14.png</file>
+        <file>img/img15.svg</file>
+        <file>img/load.gif</file>
+        <file>img/load2.gif</file>
+        <file>img/load4.gif</file>
+        <file>img/load3.gif</file>
+        <file>img/load1.png</file>
+        <file>img/loading.gif</file>
+        <file>img/fail.png</file>
+        <file>img/v.png</file>
+        <file>img/image.png</file>
+    </qresource>
+    <qresource prefix="/ img"/>
+</RCC>
